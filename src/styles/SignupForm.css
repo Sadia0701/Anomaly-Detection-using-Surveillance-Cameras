@@ -1,0 +1,61 @@
+/* SignupForm.css */
+
+.register {
+  width: 400px;
+  background: #374151; /* Grey background color */
+  border: 1px solid #d1d5db; /* Grey border color */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 1rem;
+  align-items: center;
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.register h1 {
+  color: white; /* Dark grey text color */
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.register input {
+  border-radius: 8px;
+  border: 2px solid #d1d5db; /* Grey border color */
+  outline: none;
+  color: #1d2129; /* Black text color */
+  margin: 0.5rem 0;
+  padding: 0.5rem 0.75rem;
+  width: 92%;
+  font-size: 1rem;
+}
+
+.register .button {
+  background: #3b82f6; /* Blue button color */
+  border: 1px solid #3b82f6; /* Blue border color */
+  color: #fff; /* White text color */
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
+
+.register .button:hover {
+  background: #2563eb; /* Darker blue on hover */
+  border: 1px solid #2563eb; /* Darker blue border on hover */
+}
+
+.register .or-divider {
+  margin: 1rem 0;
+  color: #6b7280; /* Grey divider text color */
+}
+
+.register .login-link {
+  color: #059669; /* Green login link color */
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+

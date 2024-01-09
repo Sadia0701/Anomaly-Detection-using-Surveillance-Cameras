@@ -1,0 +1,14 @@
+.evaluation-criteria-selection {
+    margin-bottom: 20px;
+  }
+  
+  .evaluation-criteria-selection h2 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .evaluation-criteria-selection select {
+    padding: 5px;
+    font-size: 16px;
+  }
+  

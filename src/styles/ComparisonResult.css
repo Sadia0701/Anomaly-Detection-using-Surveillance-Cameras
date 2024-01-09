@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+}
+
+.table {
+  border-collapse: collapse;
+  width: 70%;
+}
+
+.table th,
+.table td {
+  border: 3px solid plum;
+  background-color: purple;
+  padding: 8px;
+  text-align: center;
+}
+
+h1{
+  color: black;
+}
+button{
+  width: 100px;
+  height: 40px;
+ 
+}

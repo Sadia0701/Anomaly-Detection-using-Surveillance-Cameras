@@ -1,0 +1,94 @@
+/* Reset common styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.container {
+  max-width: 500px;
+  margin: 20px;
+  padding: 40px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  color: #333;
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="file"] {
+  width: 100%;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+/* Specific page styles */
+.login-page {
+  background-color: #f6f8fa;
+}
+
+.signup-page {
+  background-color: #f9fafc;
+}
+
+.logout-button {
+  text-align: right;
+}
+
+.dataset-selection-page {
+  background-color: #eef6f9;
+}
+
+.data-processor-selection-page {
+  background-color: #f8f4ed;
+}
+
+.feature-extractor-selection-page {
+  background-color: #f5f8ed;
+}
+
+.model-selection-page {
+  background-color: #f8eff5;
+}
+
+.evaluation-metric-selection-page {
+  background-color: #f5f5f5;
+}

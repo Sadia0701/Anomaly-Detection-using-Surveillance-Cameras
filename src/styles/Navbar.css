@@ -1,0 +1,42 @@
+.navbar {
+  display: flex;
+  justify-content: space-between; /* Align items to each end of the container */
+  align-items: center;
+  background-color: #374151;
+  border: grey;
+  padding: 10px; /* Add padding for better visual appearance */
+}
+
+.navbar h2 {
+  color: #fff;
+  margin: 0;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  flex: 1; /* Add this line to make the heading centered */
+}
+
+.navbar-items {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.logout {
+  margin-left: auto; /* Push the logout button to the right-most */
+}
+
+.button {
+  background-color: white;
+  color: #374151;
+  border: none;
+  padding: 10px 10px;
+  cursor: pointer;
+}
