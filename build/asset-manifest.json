@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Anomaly-Detection-using-Surveillance-Cameras/static/css/main.7465f2ad.css",
-    "main.js": "/Anomaly-Detection-using-Surveillance-Cameras/static/js/main.f06d4069.js",
-    "static/js/787.14c52904.chunk.js": "/Anomaly-Detection-using-Surveillance-Cameras/static/js/787.14c52904.chunk.js",
-    "static/media/background-image.jpg": "/Anomaly-Detection-using-Surveillance-Cameras/static/media/background-image.f3698f446bcf78aa78f0.jpg",
-    "static/media/logo.png": "/Anomaly-Detection-using-Surveillance-Cameras/static/media/logo.5ac333285f479816cda3.png",
-    "static/media/LandingPageImg.jpg": "/Anomaly-Detection-using-Surveillance-Cameras/static/media/LandingPageImg.5e39817d9efa6beecb97.jpg",
-    "index.html": "/Anomaly-Detection-using-Surveillance-Cameras/index.html",
-    "main.7465f2ad.css.map": "/Anomaly-Detection-using-Surveillance-Cameras/static/css/main.7465f2ad.css.map",
-    "main.f06d4069.js.map": "/Anomaly-Detection-using-Surveillance-Cameras/static/js/main.f06d4069.js.map",
-    "787.14c52904.chunk.js.map": "/Anomaly-Detection-using-Surveillance-Cameras/static/js/787.14c52904.chunk.js.map"
+    "main.css": "/Benchmarking_tool/static/css/main.7465f2ad.css",
+    "main.js": "/Benchmarking_tool/static/js/main.f98db3d6.js",
+    "static/js/787.14c52904.chunk.js": "/Benchmarking_tool/static/js/787.14c52904.chunk.js",
+    "static/media/background-image.jpg": "/Benchmarking_tool/static/media/background-image.f3698f446bcf78aa78f0.jpg",
+    "static/media/logo.png": "/Benchmarking_tool/static/media/logo.5ac333285f479816cda3.png",
+    "static/media/LandingPageImg.jpg": "/Benchmarking_tool/static/media/LandingPageImg.5e39817d9efa6beecb97.jpg",
+    "index.html": "/Benchmarking_tool/index.html",
+    "main.7465f2ad.css.map": "/Benchmarking_tool/static/css/main.7465f2ad.css.map",
+    "main.f98db3d6.js.map": "/Benchmarking_tool/static/js/main.f98db3d6.js.map",
+    "787.14c52904.chunk.js.map": "/Benchmarking_tool/static/js/787.14c52904.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7465f2ad.css",
-    "static/js/main.f06d4069.js"
+    "static/js/main.f98db3d6.js"
   ]
 }
